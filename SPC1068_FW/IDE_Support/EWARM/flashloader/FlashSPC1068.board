@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_board>
+  <pass>
+    <loader>$TOOLKIT_DIR$\config\flashloader\SPINTROL\FlashSPC1068.flash</loader>
+    <range>CODE 0x1FFF8000 0x20003FFF</range>
+  </pass>
+</flash_board>

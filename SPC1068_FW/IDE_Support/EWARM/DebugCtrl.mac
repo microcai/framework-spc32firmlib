@@ -1,0 +1,12 @@
+execUserPreload()
+{
+  __var Reg;
+
+  __message"----- Running bootloader -----";
+  
+  // Read application entry address
+  Reg = __readMemory32(0x1FFF8000, "Memory");
+  
+  // Hardware reset and run to the entry address
+  __hwResetRunToBp(8, Reg, 5000);
+}

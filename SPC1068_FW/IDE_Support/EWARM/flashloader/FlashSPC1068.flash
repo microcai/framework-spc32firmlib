@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_device>
+    <exe>$TOOLKIT_DIR$\config\flashloader\SPINTROL\FlashSPC1068.out</exe>
+    <page>256</page>
+	<block>12 0x1000</block>
+	<flash_base>0x1FFF8000</flash_base>
+	<online>1</online>
+    <aggregate>0</aggregate>
+</flash_device>

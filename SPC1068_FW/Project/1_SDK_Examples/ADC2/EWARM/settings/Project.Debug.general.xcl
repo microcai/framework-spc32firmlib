@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armjlink2.dll" 
+
+"D:\Spintrol Work\SpintrolSVN\PICA\A0_SPC1068\AE\01_FIRMWARE\Customer\trunk\Project\1_SDK_Examples\ADC2\EWARM\Debug\Exe\Project.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--macro="D:\Spintrol Work\SpintrolSVN\PICA\A0_SPC1068\AE\01_FIRMWARE\Customer\trunk\Project\1_SDK_Examples\ADC2\EWARM\..\..\..\..\IDE_Support\EWARM\DebugCtrl.mac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\flashloader\SPINTROL\FlashSPC1068.board" 
+
+
+
+
